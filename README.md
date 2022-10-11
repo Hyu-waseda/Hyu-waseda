@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyu-waseda&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Hyu-waseda&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyu-waseda&hide=jupyter%20notebook,Roff,Objective-C&show_icons=true&theme=radical)
