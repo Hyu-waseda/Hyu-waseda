@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats-eight-kohl.vercel.app/api?username=Hyu-waseda&show_icons=true&theme=radical)
+![](https://github-readme-stats-eight-kohl.vercel.app/api?username=Hyu-waseda&show_icons=true&theme=radical&include_all_commits=true)
 ![](https://github-readme-stats-eight-kohl.vercel.app/api/top-langs/?username=Hyu-waseda&layout=compact&langs_count=14&hide=jupyter%20notebook,Roff,Objective-C,Shell,Makefile,CMake,Perl,Kotlin,Smarty&show_icons=true&theme=radical)
